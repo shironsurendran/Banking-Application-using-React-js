@@ -1,0 +1,39 @@
+.nav{
+  background: red;
+}
+
+.for{
+  width: 50%;
+  /* margin-left: 10%; */
+  margin-top: 5%;
+}
+h1{
+  text-align: center;
+}
+.img{
+  width: 30%;
+  
+}
+h2{
+  width: 70%;
+  
+}
+h3{
+  color: rgb(63, 198, 119);
+}
+Button{
+  margin-left: 10px;
+}
+#all{
+  background: rgb(47, 109, 255);
+  color: white;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 3%;
+}
+#btm{
+  background: rgba(41,98,255,1.0);
+  color: white;
+  padding: 8px;
+  border-radius: 10px;
+}
